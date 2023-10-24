@@ -1,7 +1,7 @@
 # React-tac-toe
 A React-based tic-tac-toe game (for educational purposes only)
 
-This is a project that demonstrated the useState React hook as well as techniques for passing state between parent and child components.
+This is a project that demonstrated the useState React hook as well as techniques for passing state between parent and child components:
 
 - Auto-refresh the page after gameplay is complete using window.location.reload
 - An alert dialog announcing which player won
